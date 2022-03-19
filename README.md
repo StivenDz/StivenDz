@@ -3,7 +3,7 @@
 
 - 🥇 I’m a Front-End Developer
 - 📚 I’m a Full Stack Student
-- 🖥️ I’m looking to work as a Front-End Developer and gain experience
+<!-- - 🖥️ I’m looking to work as a Front-End Developer and gain experience -->
 
 <div align="center">
   <a href="https://github.com/StivenDz">
