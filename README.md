@@ -2,7 +2,7 @@
 
 
 - 🥇 I’m a Front-End Developer
-- 📚 I’m a Full Stack Student
+- 📚 I’m a Full Stack Student at CoderHouse
 <!-- - 🖥️ I’m looking to work as a Front-End Developer and gain experience -->
 
 <div align="center">
