@@ -2,7 +2,7 @@
 
 
 <!-- - 🥇 I’m a Full Stack Developer -->
-- 🖥️ I’m a Full Stack Developer at MQA Americas
+- 🖥️ I’m a Full Stack Developer
 
 <div align="center">
   <a href="https://github.com/StivenDz">
